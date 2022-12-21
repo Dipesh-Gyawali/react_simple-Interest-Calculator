@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react_simple-Interest-Calculator/static/css/main.31d6cfe0.css",
+    "main.js": "/react_simple-Interest-Calculator/static/js/main.4f5c5516.js",
+    "static/js/787.81a99d02.chunk.js": "/react_simple-Interest-Calculator/static/js/787.81a99d02.chunk.js",
+    "index.html": "/react_simple-Interest-Calculator/index.html",
+    "main.4f5c5516.js.map": "/react_simple-Interest-Calculator/static/js/main.4f5c5516.js.map",
+    "787.81a99d02.chunk.js.map": "/react_simple-Interest-Calculator/static/js/787.81a99d02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.4f5c5516.js"
+  ]
+}
